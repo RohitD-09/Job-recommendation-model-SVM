@@ -8,8 +8,14 @@ This version does not use weighted parameters for training the model.
 The .pkl file is provided which contains a trained exported model.
 The model can be loaded by using the pickle.load() method.
 
-Install the requirements on your system:
+For additional insight on how SVM works visit this link : 
+https://www.analyticsvidhya.com/blog/2021/03/beginners-guide-to-support-vector-machine-svm/
+
+Install the following requirements on your system:
+
 !pip install numpy
+
 !pip install pandas
+
 !pip install -U scikit-learn
 
